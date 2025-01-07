@@ -6,5 +6,5 @@ This project focuses on analyzing Pizzayum sales data to uncover insights into c
 
 -- Retrieve the total number of order placed ?
 
-select count(order_id) as total_orders from orders
+select count(order_id) as total_orders from orders;
 
