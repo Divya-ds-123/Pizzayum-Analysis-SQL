@@ -15,3 +15,23 @@ This project focuses on analyzing Pizzayum sales data to uncover insights into c
 ![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/5.jpg)
 
 ![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/6.jpg)
+
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/7.jpg)
+
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/8.jpg)
+
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/9.jpg)
+
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/10.jpg)
+
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/11.jpg)
+
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/12.jpg)
+
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/13.jpg)
+
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/14.jpg)
+
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/15.jpg)
+
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/main/16.jpg)
