@@ -4,7 +4,4 @@ This project focuses on analyzing Pizzayum sales data to uncover insights into c
 ## Here's the Sql query with questions -
 ## use pizzahut;
 
--- Retrieve the total number of order placed ?
-
-select count(order_id) as total_orders from orders;
 
