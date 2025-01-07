@@ -1,2 +1,1 @@
-# Pizzayum-Analysis-SQL
-Pizzahut analysis by MySQL
+## Pizzahut analysis by MySQL
