@@ -4,4 +4,4 @@ This project focuses on analyzing Pizzayum sales data to uncover insights into c
 ## Here's the Sql query with questions -
 ## use pizzahut;
 
-
+![image alt](https://github.com/Divya-ds-123/Pizzayum-Analysis-SQL/blob/c875179228ac38696e2088cca9893bd875a7d4b9/1.jpg)
